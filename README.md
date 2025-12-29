@@ -15,18 +15,18 @@
 <br clear="right"/>
 
 <div align="center">
-  <img height="50" hspace="8" src="assets/microsoftword.svg">
-  <img height="50" hspace="8" src="assets/microsoftexcel.svg">
-  <img height="50" hspace="8" src="assets/microsoftpowerpoint.svg">
-  <img height="50" hspace="8" src="assets/openai.svg">
-  <img height="50" hspace="8" src="assets/vercel.svg">
-  <img height="50" hspace="8" src="assets/node-dot-js.svg">
-  <img height="50" hspace="8" src="assets/mysql.svg">
-  <img height="50" hspace="8" src="assets/python.svg">
-  <img height="50" hspace="8" src="assets/java.svg">
-  <img height="50" hspace="8" src="assets/typescript.svg">
-  <img height="50" hspace="8" src="assets/cplusplus.svg">
-  <img height="50" hspace="8" src="assets/css3.svg">
+  <img height="48" hspace="8" src="assets/microsoftword.svg">
+  <img height="48" hspace="8" src="assets/microsoftexcel.svg">
+  <img height="48" hspace="8" src="assets/microsoftpowerpoint.svg">
+  <img height="48" hspace="8" src="assets/openai.svg">
+  <img height="48" hspace="8" src="assets/vercel.svg">
+  <img height="48" hspace="8" src="assets/node-dot-js.svg">
+  <img height="48" hspace="8" src="assets/mysql.svg">
+  <img height="48" hspace="8" src="assets/python.svg">
+  <img height="48" hspace="8" src="assets/java.svg">
+  <img height="48" hspace="8" src="assets/typescript.svg">
+  <img height="48" hspace="8" src="assets/cplusplus.svg">
+  <img height="48" hspace="8" src="assets/css3.svg">
 </div>
 
 <br clear="right"/>
