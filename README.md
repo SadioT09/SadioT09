@@ -32,7 +32,7 @@
 <br clear="right"/>
 <br clear="right"/>
 
-<div align="center">
-  <img src="assets/dancingDog.gif" height="180"/>
-  <h3 align="center">Please and Thank You</h3>
+<div align="right">
+  <img aligh="right" src="assets/dancingDog.gif" height="180"/>
+  <h3 align="right">Please and Thank You</h3>
 </div>
