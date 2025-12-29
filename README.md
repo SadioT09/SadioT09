@@ -22,7 +22,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Arial&weight=900&size=24&duration=2000&pause=3000&color=FFFFFF&center=true&vCenter=true&width=250&height=24&lines=I'm+a+big+fan+of+Dranke" alt="Typing SVG" /> <img height="70" src="assets/drake.gif">
 
 <div>
-  <br/><br/> <img src="https://readme-typing-svg.demolab.com?font=Arial&weight=900&size=24&duration=1200&pause=2000&color=FFFFFF&center=true&vCenter=true&width=150&height=24&lines=I+am+fluent+in" alt="Typing SVG" /> <br/>
+  <br/><br/> <img src="https://readme-typing-svg.demolab.com?font=Arial&weight=900&size=24&duration=1200&pause=2000&color=FFFFFF&center=true&vCenter=true&width=140&height=24&lines=I+operate+in" alt="Typing SVG" /> <br/>
   <img height="32" hspace="4" src="assets/microsoftword.svg"> Word,
   <img height="32" hspace="4" src="assets/microsoftexcel.svg"> Excel,
   <img height="32" hspace="4" src="assets/microsoftpowerpoint.svg"> PowerPoint,
