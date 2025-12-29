@@ -11,7 +11,9 @@
   </a>
 </div>
 
-<img align="center" src="assets/line (4).png"/>
+<img align="center" src="assets/divider.png"/>
+
+<img align="right" src="assets/albumCoverTest.gif" height="320"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Arial&weight=900&size=24&duration=2000&pause=3000&color=FFFFFF&center=true&vCenter=true&width=280&height=24&lines=I'm+an+economics+student" alt="Typing SVG" /> <img height="60" src="assets/uconn.gif">
 
@@ -35,7 +37,7 @@
   <img height="28" hspace="4" src="assets/css3.svg"> CSS
 </div>
 
-<img align="center" src="assets/line (4).png"/>
+<img align="center" src="assets/divider.png"/>
 
 <div align="center">
   <h3 align="left" >Random Quote</h3>
