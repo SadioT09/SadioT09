@@ -42,6 +42,6 @@
 <div align="center">
   <h3 align="left" >Daily Quote</h3>
   <img align="left" src="https://readme-daily-quotes.vercel.app/api?accent_color=0F4605FF&quote_color=FFFFFF&border_width=0" alt="Quotes" height="170"/>
-  <img align="right" src="assets/wave.GIF" height="170"/><br clear="right"/>
+  <img align="right" src="assets/wave.GIF" height="140"/><br clear="right"/>
   <h3 align="right" >Please and Thank You</h3>
 </div>
