@@ -33,7 +33,6 @@
 <br clear="right"/>
 
 <div align="center">
-  <img src="assets/dancingDog.gif" height="180"/><br clear="right"/>
+  <img src="assets/dancingDog.gif" height="180"/>
+  <h3 align="center">Please and Thank You</h3>
 </div>
-
-<h3 align="center">Please and Thank You</h3>
