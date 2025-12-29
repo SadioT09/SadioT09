@@ -11,28 +11,35 @@
   </a>
 </div>
 
-<br clear="right"/>
-<br clear="right"/>
+<img align="center" src="assets/line (4).png"/>
 
-<div align="center">
-  <img height="48" hspace="8" src="assets/microsoftword.svg">
-  <img height="48" hspace="8" src="assets/microsoftexcel.svg">
-  <img height="48" hspace="8" src="assets/microsoftpowerpoint.svg">
-  <img height="48" hspace="8" src="assets/openai.svg">
-  <img height="48" hspace="8" src="assets/vercel.svg">
-  <img height="48" hspace="8" src="assets/node-dot-js.svg">
-  <img height="48" hspace="8" src="assets/mysql.svg">
-  <img height="48" hspace="8" src="assets/python.svg">
-  <img height="48" hspace="8" src="assets/java.svg">
-  <img height="48" hspace="8" src="assets/typescript.svg">
-  <img height="48" hspace="8" src="assets/cplusplus.svg">
-  <img height="48" hspace="8" src="assets/css3.svg">
+<img src="https://readme-typing-svg.demolab.com?font=Arial&weight=900&size=24&duration=2000&pause=3000&color=FFFFFF&center=true&vCenter=true&width=280&height=24&lines=I'm+an+economics+student" alt="Typing SVG" /> <img height="60" src="assets/uconn.gif">
+
+<img src="https://readme-typing-svg.demolab.com?font=Arial&weight=900&size=24&duration=1800&pause=3000&color=FFFFFF&center=true&vCenter=true&width=180&height=24&lines=I+play+Basketball" alt="Typing SVG" /> <img height="70" src="assets/ball.gif"> <img src="https://readme-typing-svg.demolab.com?font=Arial&weight=900&size=24&duration=2100&pause=3000&color=FFFFFF&center=true&vCenter=true&width=330&height=24&lines=%2C+let's+hop+on+the+court+together" alt="Typing SVG" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Arial&weight=900&size=24&duration=2000&pause=3000&color=FFFFFF&center=true&vCenter=true&width=250&height=24&lines=I'm+a+big+fan+of+Dranke" alt="Typing SVG" /> <img height="70" src="assets/drake.gif">
+
+<div>
+  <br/><br/> <img src="https://readme-typing-svg.demolab.com?font=Arial&weight=900&size=24&duration=1200&pause=2000&color=FFFFFF&center=true&vCenter=true&width=150&height=24&lines=I+am+fluent+in" alt="Typing SVG" /> <br/>
+  <img height="28" hspace="4" src="assets/microsoftword.svg"> Word,
+  <img height="28" hspace="4" src="assets/microsoftexcel.svg"> Excel,
+  <img height="28" hspace="4" src="assets/microsoftpowerpoint.svg"> PowerPoint,
+  <img height="28" hspace="4" src="assets/openai.svg"> OpenAI,
+  <img height="28" hspace="4" src="assets/vercel.svg"> Vercel,
+  <img height="28" hspace="4" src="assets/node-dot-js.svg"> Node.js, <br/>
+  <img height="28" hspace="4" src="assets/mysql.svg"> MySQL, 
+  <img height="28" hspace="4" src="assets/python.svg"> Python,
+  <img height="28" hspace="4" src="assets/java.svg"> Java,
+  <img height="28" hspace="4" src="assets/typescript.svg"> TypeScript,
+  <img height="28" hspace="4" src="assets/cplusplus.svg"> C++, and
+  <img height="28" hspace="4" src="assets/css3.svg"> CSS
 </div>
 
-<br clear="right"/>
-<br clear="right"/>
+<img align="center" src="assets/line (4).png"/>
 
-<div align="right">
-  <img aligh="right" src="assets/dancingDog.gif" height="180"/>
-  <h3 align="right">Please and Thank You</h3>
+<div align="center">
+  <h3 align="left" >Random Quote</h3>
+  <img align="left" src="https://readme-daily-quotes.vercel.app/api?accent_color=0F4605FF&quote_color=FFFFFF&border_width=0" alt="Quotes" height="180"/>
+  <img align="right" src="assets/dancingDog.gif" height="180"/><br clear="right"/>
+  <h3 align="right" >Please and Thank You</h3>
 </div>
