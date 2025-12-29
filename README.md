@@ -17,7 +17,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Arial&weight=900&size=24&duration=2000&pause=3000&color=FFFFFF&center=true&vCenter=true&width=280&height=24&lines=I'm+an+economics+student" alt="Typing SVG" /> <img height="60" src="assets/uconn.gif">
 
-<img src="https://readme-typing-svg.demolab.com?font=Arial&weight=900&size=24&duration=1800&pause=3000&color=FFFFFF&center=true&vCenter=true&width=180&height=24&lines=I+play+Basketball" alt="Typing SVG" /> <img height="70" src="assets/ball.gif"> <img src="https://readme-typing-svg.demolab.com?font=Arial&weight=900&size=24&duration=2100&pause=3000&color=FFFFFF&center=true&vCenter=true&width=330&height=24&lines=%2C+let's+hop+on+the+court+together" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Arial&weight=900&size=24&duration=1800&pause=3000&color=FFFFFF&center=true&vCenter=true&width=180&height=24&lines=I+play+Basketball" alt="Typing SVG" /> <img height="70" src="assets/ball.gif"> <img src="https://readme-typing-svg.demolab.com?font=Arial&weight=900&size=24&duration=1200&pause=2000&color=FFFFFF&center=true&vCenter=true&width=210&height=24&lines=,+let's+hoop+together" alt="Typing SVG" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Arial&weight=900&size=24&duration=2000&pause=3000&color=FFFFFF&center=true&vCenter=true&width=250&height=24&lines=I'm+a+big+fan+of+Dranke" alt="Typing SVG" /> <img height="70" src="assets/drake.gif">
 
