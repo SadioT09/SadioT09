@@ -23,18 +23,18 @@
 
 <div>
   <br/><br/> <img src="https://readme-typing-svg.demolab.com?font=Arial&weight=900&size=24&duration=1200&pause=2000&color=FFFFFF&center=true&vCenter=true&width=150&height=24&lines=I+am+fluent+in" alt="Typing SVG" /> <br/>
-  <img height="28" hspace="4" src="assets/microsoftword.svg"> Word,
-  <img height="28" hspace="4" src="assets/microsoftexcel.svg"> Excel,
-  <img height="28" hspace="4" src="assets/microsoftpowerpoint.svg"> PowerPoint,
-  <img height="28" hspace="4" src="assets/openai.svg"> OpenAI,
-  <img height="28" hspace="4" src="assets/vercel.svg"> Vercel,
-  <img height="28" hspace="4" src="assets/node-dot-js.svg"> Node.js, <br/>
-  <img height="28" hspace="4" src="assets/mysql.svg"> MySQL, 
-  <img height="28" hspace="4" src="assets/python.svg"> Python,
-  <img height="28" hspace="4" src="assets/java.svg"> Java,
-  <img height="28" hspace="4" src="assets/typescript.svg"> TypeScript,
-  <img height="28" hspace="4" src="assets/cplusplus.svg"> C++, and
-  <img height="28" hspace="4" src="assets/css3.svg"> CSS
+  <img height="32" hspace="4" src="assets/microsoftword.svg"> Word,
+  <img height="32" hspace="4" src="assets/microsoftexcel.svg"> Excel,
+  <img height="32" hspace="4" src="assets/microsoftpowerpoint.svg"> PowerPoint,
+  <img height="32" hspace="4" src="assets/openai.svg"> OpenAI,
+  <img height="32" hspace="4" src="assets/vercel.svg"> Vercel,
+  <img height="32" hspace="4" src="assets/node-dot-js.svg"> Node.js, <br/>
+  <img height="32" hspace="4" src="assets/mysql.svg"> MySQL, 
+  <img height="32" hspace="4" src="assets/python.svg"> Python,
+  <img height="32" hspace="4" src="assets/java.svg"> Java,
+  <img height="32" hspace="4" src="assets/typescript.svg"> TypeScript,
+  <img height="32" hspace="4" src="assets/cplusplus.svg"> C++, and
+  <img height="32" hspace="4" src="assets/css3.svg"> CSS
 </div>
 
 <img align="center" src="assets/divider.png"/>
