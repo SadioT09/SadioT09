@@ -1,0 +1,46 @@
+name: Update Profile Gotchi SVG
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # Updates daily at 00:00 UTC
+  workflow_dispatch: # Allows manual trigger
+
+jobs:
+  update-pet:
+    permissions:
+      contents: write
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      
+      - name: Generate Pet 👾
+        uses: ThanhNguyxn/Git-Gotchi@main
+        with:
+          github_token: ${{ secrets.GH_TOKEN }}
+          username: ${{ github.repository_owner }}
+          timezone: 'America/New_York'
+          background_theme: 'minimal'
+          show_level: 'true'
+          
+      - name: Commit SVG to repo
+        run: |
+          mkdir -p assets
+          if [ ! -f dist/pet.svg ]; then
+            echo "Expected dist/pet.svg was not generated."
+            echo "Listing files for debugging:"
+            ls -R
+            exit 1
+          fi
+          mv -f dist/pet.svg assets/profileGotchi.svg
+
+      - name: Commit SVG to repo
+        run: |
+          git config user.name github-actions
+          git config user.email github-actions@github-actions@github.com
+
+          git status --porcelain
+          git add -A
+          git status --porcelain
+
+          git commit -m "Update Profile Gotchi SVG" || exit 0
+          git push
