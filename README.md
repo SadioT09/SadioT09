@@ -92,13 +92,13 @@
   <picture>
       <source
         media="(prefers-color-scheme: dark)"
-        srcset="https://readme-daily-quotes.vercel.app/api?accent_color=0F4605FF&quote_color=FFFFFF&border_width=0"
+        srcset="https://readme-daily-quotes.vercel.app/api?accent_color=0F4605FF&quote_color=FFFFFF&border_width=0&author_color=FFFFF"
       />
       <source
         media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-        srcset="https://readme-daily-quotes.vercel.app/api?accent_color=0F4605FF&quote_color=000000&bg_color=FFFFFF&border_width=0"
+        srcset="https://readme-daily-quotes.vercel.app/api?accent_color=0F4605FF&quote_color=000000&bg_color=FFFFFF&border_width=0&author_color=000000"
       />
-      <img align="left" src="https://readme-daily-quotes.vercel.app/api?accent_color=0F4605FF&quote_color=FFFFFF&border_width=0" alt="Quotes" height="170"/>
+      <img align="left" src="https://readme-daily-quotes.vercel.app/api?accent_color=0F4605FF&quote_color=FFFFFF&border_width=0&author_color=FFFFFF" alt="Quotes" height="170"/>
   </picture> 
   <img align="right" src="assets/wave.GIF" height="140"/><br clear="right"/>
   <h3 align="right" >Please and Thank You</h3>
