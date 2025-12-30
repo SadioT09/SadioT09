@@ -92,7 +92,7 @@
   <picture>
       <source
         media="(prefers-color-scheme: dark)"
-        srcset="https://readme-daily-quotes.vercel.app/api?accent_color=0F4605FF&quote_color=FFFFFF&border_width=0&author_color=FFFFF"
+        srcset="https://readme-daily-quotes.vercel.app/api?accent_color=0F4605FF&quote_color=FFFFFF&border_width=0&author_color=FFFFFF"
       />
       <source
         media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
