@@ -3,12 +3,10 @@
 </div>
 
 <div align="center" valign="center" >
-  <a href="https://www.linkedin.com/in/sadio-toure/">
-    <img src="https://img.shields.io/static/v1?label=view&labelColor=505050&message=LinkedIn&color=%230F4605FF&style=flat&logoColor=%230076D6"/>
-  </a>
-  <a href="https://hits.sh/github.com/SadioT09/hits/">
-    <img alt="Visitor #" src="https://hits.sh/github.com/SadioT09/hits.svg?color=0F4605FF"/>
-  </a>
+
+  [![LinkedIn](https://img.shields.io/static/v1?label=view&labelColor=505050&message=LinkedIn&color=%230F4605FF&style=flat&logoColor=%230076D6)](https://www.linkedin.com/in/sadio-toure/)
+  [![Hits](https://hits.sh/github.com/SadioT09/hits.svg?color=0F4605FF)](https://hits.sh/github.com/SadioT09/hits/)
+
 </div>
 
 <img align="center" src="assets/divider.png"/>
