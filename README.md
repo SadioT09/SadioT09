@@ -15,14 +15,62 @@
 
 <img align="right" src="assets/album.gif" height="320"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Arial&weight=900&size=24&duration=2000&pause=3000&color=FFFFFF&center=true&vCenter=true&width=280&height=24&lines=I'm+an+economics+student" alt="Typing SVG" /> <img height="60" src="assets/uconn.gif">
+<p align="left">
+  <picture>
+      <source
+        media="(prefers-color-scheme: dark)"
+        srcset="https://readme-typing-svg.demolab.com?font=Arial&weight=900&size=24&duration=2000&pause=3000&color=FFFFFF&center=true&vCenter=true&width=280&height=24&lines=I'm+an+economics+student"
+      />
+      <source
+        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+        srcset="https://readme-typing-svg.demolab.com?font=Arial&weight=900&size=24&duration=2000&pause=3000&color=000000&center=true&vCenter=true&width=280&height=24&lines=I'm+an+economics+student"
+      />
+      <img src="https://readme-typing-svg.demolab.com?font=Arial&weight=900&size=24&duration=2000&pause=3000&color=FFFFFF&center=true&vCenter=true&width=280&height=24&lines=I'm+an+economics+student" alt="Typing SVG" />
+  </picture> 
+  <img height="60" src="assets/uconn.gif">
+</p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Arial&weight=900&size=24&duration=1800&pause=3000&color=FFFFFF&center=true&vCenter=true&width=180&height=24&lines=I+play+Basketball" alt="Typing SVG" /> <img height="70" src="assets/ball.gif">
+<p align="left">
+  <picture>
+      <source
+        media="(prefers-color-scheme: dark)"
+        srcset="https://readme-typing-svg.demolab.com?font=Arial&weight=900&size=24&duration=1800&pause=3000&color=FFFFFF&center=true&vCenter=true&width=180&height=24&lines=I+play+Basketball"
+      />
+      <source
+        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+        srcset="https://readme-typing-svg.demolab.com?font=Arial&weight=900&size=24&duration=1800&pause=3000&color=000000&center=true&vCenter=true&width=180&height=24&lines=I+play+Basketball"
+      />
+      <img src="https://readme-typing-svg.demolab.com?font=Arial&weight=900&size=24&duration=1800&pause=3000&color=FFFFFF&center=true&vCenter=true&width=180&height=24&lines=I+play+Basketball" alt="Typing SVG" />
+  </picture> <img height="70" src="assets/ball.gif">
+</p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Arial&weight=900&size=24&duration=2000&pause=3000&color=FFFFFF&center=true&vCenter=true&width=250&height=24&lines=I'm+a+big+fan+of+Dranke" alt="Typing SVG" /> <img height="70" src="assets/drake.gif">
+<p align="left">
+  <picture>
+      <source
+        media="(prefers-color-scheme: dark)"
+        srcset="https://readme-typing-svg.demolab.com?font=Arial&weight=900&size=24&duration=2000&pause=3000&color=FFFFFF&center=true&vCenter=true&width=250&height=24&lines=I'm+a+big+fan+of+Dranke"
+      />
+      <source
+        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+        srcset="https://readme-typing-svg.demolab.com?font=Arial&weight=900&size=24&duration=2000&pause=3000&color=000000&center=true&vCenter=true&width=250&height=24&lines=I'm+a+big+fan+of+Dranke"
+      />
+      <img src="https://readme-typing-svg.demolab.com?font=Arial&weight=900&size=24&duration=2000&pause=3000&color=FFFFFF&center=true&vCenter=true&width=250&height=24&lines=I'm+a+big+fan+of+Dranke" alt="Typing SVG" />
+  </picture> 
+  <img height="70" src="assets/drake.gif">
+</p>
 
 <div>
-  <br/><br/> <img src="https://readme-typing-svg.demolab.com?font=Arial&weight=900&size=24&duration=1200&pause=2000&color=FFFFFF&center=true&vCenter=true&width=140&height=24&lines=I+operate+in" alt="Typing SVG" /> <br/>
+  <br/><br/> <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://readme-typing-svg.demolab.com?font=Arial&weight=900&size=24&duration=1200&pause=2000&color=FFFFFF&center=true&vCenter=true&width=140&height=24&lines=I+operate+in"
+    />
+    <source
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+      srcset="https://readme-typing-svg.demolab.com?font=Arial&weight=900&size=24&duration=1200&pause=2000&color=000000&center=true&vCenter=true&width=140&height=24&lines=I+operate+in"
+    />
+    <img src="https://readme-typing-svg.demolab.com?font=Arial&weight=900&size=24&duration=1200&pause=2000&color=FFFFFF&center=true&vCenter=true&width=140&height=24&lines=I+operate+in" alt="Typing SVG" />
+</picture> <br/>
   <img height="32" hspace="4" src="assets/microsoftword.svg"> Word,
   <img height="32" hspace="4" src="assets/microsoftexcel.svg"> Excel,
   <img height="32" hspace="4" src="assets/microsoftpowerpoint.svg"> PowerPoint,
